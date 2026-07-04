@@ -1,0 +1,11 @@
+# Ejecutables
+*.exe
+*.o
+*.out
+
+# Carpetas de entornos y configuraciones de IDEs
+.vscode/
+.idea/
+
+# Temporales de compilación
+*.log
